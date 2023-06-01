@@ -7,143 +7,41 @@ My boyfriend is really something. Every time I ask him to change something, even
 John is a good manager. He can sit and listen to our problems without being defensive or jumping in to argue. He somehow gets us all to work out our problems.
 I handle conflicts with my wife by not talking to her. If I tell her she is doing something I don’t like, she pouts for 2 days. It’s just better to avoid the whole thing.
 Kevin and Susana are quite a pair! They fight all the time and don’t seem to get anywhere, except ready for the next round of fighting.
- The Nature of Styles
+
+The Nature of Styles
 
 Conflict styles are patterned responses, or clusters of behavior, that people use in conflict. Style preferences develop over a person’s lifetime based on a complicated blend of personal characteristics, life experiences, and family background (Hamilton and Tafoya 2012; Roloff 2009; Siffert and Schwarz 2011). By the time you are an adult, your basic orientation to conflicts in particular contexts has developed. Your preferences for either harmony and calm, or high-energy engagement, remain fairly consistent, depending on context. For instance, with your siblings, you may engage in spirited conversation over the dinner table, or you might avoid any direct talk about difficult issues with them. In most relationships, we develop repetitive conflict styles.
-Developing a repertoire of diverse styles may stretch you out of your comfort zone. However, having a choice of styles will enhance your chances for productive conflict. This chapter will introduce you to a variety of styles and their impact on relationships.
-While you were born with various personality orientations, such as introversion and extraversion, a preference for particular conflict styles develops based on your learning and experience. You can change your style for a particular conflict once you become familiar with different approaches. You may continue to prefer a certain style, but you also can make choices. Are you mindful of the style(s) you use when engaging in conflict? How might your success and overall wellness in conflict situations improve if you were?
-Page 151
-We use the Rahim (2011) classification of five conflict styles throughout this chapter. The five styles are presented in Figure 5.1.1
 
-Figure 5.1 Conflict Styles
+Developing a repertoire of diverse styles may stretch you out of your comfort zone. However, having a choice of styles will enhance your chances for productive conflict. This chapter will introduce you to a variety of styles and their impact on relationships.
+
+While you were born with various personality orientations, such as introversion and extraversion, a preference for particular conflict styles develops based on your learning and experience. You can change your style for a particular conflict once you become familiar with different approaches. You may continue to prefer a certain style, but you also can make choices. Are you mindful of the style(s) you use when engaging in conflict? How might your success and overall wellness in conflict situations improve if you were?
+
+We use the Rahim (2011) classification of five conflict styles throughout this chapter.
+
 The Rahim model can be called the dual concern model, meaning concern for self and concern for other. Notice that avoiding represents low concern for the self and low concern for the other. Obliging, commonly called accommodation, represents a low level of concern for yourself but a high level of concern for others (you give them what they want). The opposite of obliging is dominating—you are highly concerned for yourself but have only a low level of concern for the other (you “go for it” regardless of the desires of the other). Dominating was formerly termed competing. Integrating includes both your concerns and the other’s concerns. Compromising is a middle ground, where moderate degrees of concern both for yourself and the other show in the resolution of conflict. As you will discover, communication nuances provide a complex understanding of conflict styles. Styles look differently and impact others differently depending on how they are communicated (Guerrero and Gross 2014).
- Assessing Your Styles
+
+Assessing Your Styles
 
 Before we get much further in to the chapter, complete this assessment on conflict styles. This assessment is adapted from Rahim and Magner (1995) and will give you scores on each of the five styles of avoiding, obliging, dominating, integrating, and compromising.
-Page 152
+
 You will come to learn later in the chapter that conflict styles often depend on different contexts and relationships (Speakman and Ryals 2010). Therefore, fill out the style assessment for two different situations, A and B. For situation A, describe a personal relationship—with a friend, romantic partner, or close family member. Then, for situation B, pick a less personal relationship—someone you are doing a class or work project with, someone you don’t know well at work, or some other less personal close relation. The key is to pick specific people for situation A and situation B. Do not fill out the scales “in general.”
-To amplify your perspective on styles, ask two different people, one whom you know in a family or intimate relationship, and one person who knows you well from a group or work environment. Choose people with whom you are not in a current conflict, and whom you trust. Tell them that they will help you with your conflict class project, and that any way they describe you will be helpful. Give them time to do this thoughtfully. Ask your two friends to fill out Application 5.1 with your name, rather than person A and person B. Overall, exploring your conflict styles in these ways will help you develop a more circumspect, or “rounded,” understanding of how you orient to and perform in conflict.
-Page 153
-Application 5.1
+
+To amplify your perspective on styles, ask two different people, one whom you know in a family or intimate relationship, and one person who knows you well from a group or work environment. Choose people with whom you are not in a current conflict, and whom you trust. Tell them that they will help you with your conflict class project, and that any way they describe you will be helpful. Give them time to do this thoughtfully. Ask your two friends to fill out 
 
 Assessing Your Conflict Style
 
-styles
+Styles
 
-Think of two different contexts (A and B) where you have/have experienced a conflict, disagreement, argument, or disappointment with someone. An example might be someone you live with and a work or group associate. Then, according to the following scale, fill in your scores for situation A and situation B. For each question, you will have two scores. For example, on question 1 the scoring might look like this: 1.2 | 4
-Write the name of each person for the two contexts here:
-Person A _______________ Person B _______________
-1 = never  2 = seldom  3 = sometimes  4 = often  5 = always
-Person A | Person B
-_____|_____ I avoid being “put on the spot”; I keep conflicts to myself.
-_____|_____ I use my influence to get my ideas accepted.
-_____|_____ I usually try to “split the difference” in order to resolve an issue.
-_____|_____ I generally try to satisfy the other’s needs.
-_____|_____ I try to investigate an issue to find a solution acceptable to us.
-_____|_____ I usually avoid open discussion of my differences with the other.
-_____|_____ I use my authority to make a decision in my favor.
-_____|_____ I try to find a middle course to resolve an impasse.
-_____|_____ I usually accommodate the other’s wishes.
-_____|_____ I try to integrate my ideas with the other’s to come up with a decision jointly.
-_____|_____ I try to stay away from disagreement with the other.
-_____|_____ I use my expertise to make a decision that favors me.
-_____|_____ I propose a middle ground for breaking deadlocks.
-_____|_____ I give in to the other’s wishes.
-_____|_____ I try to work with the other to find solutions that satisfy both our expectations.
-_____|_____ I try to keep my disagreements to myself in order to avoid hard feelings.
-_____|_____ I generally pursue my side of an issue.
-_____|_____ I negotiate with the other to reach a compromise.
-_____|_____ I often go with the other’s suggestions.
-_____|_____ I exchange accurate information with the other so we can solve a problem together.
-_____|_____ I try to avoid unpleasant exchanges with the other.
-_____|_____ I sometimes use my power to win.
-_____|_____ I use “give and take” so that a compromise can be made.
-_____|_____ I try to satisfy the other’s expectations.
-_____|_____ I try to bring all our concerns out in the open so that the issues can be resolved.
-Scoring: Add up your scores on the following questions:
-A | B		A | B		A | B		A | B		A | B
-
-1. ___|___		2. ____|____		3. ____|____		4. ____|____		5. ____|____
-6. __|__		7. ____|____		8. ____|____		9. ____|____		10. ____|____
-11. __|___		12. ___|___		13. ___|____		14. ____|____		15. ____|____
-16. _|_		17. ___|___		18. ___|___		19. ____|____		20. ___|___
-21. __|___		22. ___|___		23. ____|____		24. ____|____		25. ___|____
-___|___		_____|_____		_____|_____		_____|_____		_____|_____
-A | B		A | B		A | B		A | B		A | B
-Avoiding Totals		Dominating (competing) Totals		Compromising Totals		Obliging (accommodating) Totals		Integrating (collaborating) Totals
-Source: Adapted from M. A. Rahim and N. R. Magner (1995), “Confirmatory Factor Analysis of the Styles of Handling Interpersonal Conflict: First-Order Factor Model and Its Invariance across Groups,” Journal of Applied Psychology 80, no. 1, 122–132.
 Now that you have self-assessments for the five styles, across two different contexts, and information from two others, you have four scores with which you can begin to assess how your styles can be described. You may have different styles across the contexts (slightly more than 50% of people do), or you may be consistent across the relationships.
-Page 154
+
 Before we examine the five styles in depth, let us explore our most fundamental orientation to conflict—avoidance or engagement.
-Application 5.2
 
-Styles in Your Group
-
-Compare your scores on the styles measure for situation A and situation B, and your scores from your two friends. In small groups, address these questions:
-How many people of your group have relatively consistent styles in different contexts?
-For those who have different answers, answer this question: “What is it about the two situations that prompts me to use different styles?”
-As a group, discuss the advantages of using the same style across two different situations.
-What are the advantages of using different styles across the two situations?
-Do personal situations and less personal situations call for different styles?
-How do you respond to the scores provided by your two friends? What can you learn from their responses?
- Will You Avoid or Engage?
-
-Look at your scores on the styles instrument. The scores for integrating, compromising, and dominating flow from engaging the other. The scores for obliging and avoiding reflect a tendency to move away from conflict. Take a moment and recall an intensely emotional conflict. What was your first impulse—to engage the conflict or avoid it? For example, people who have experienced trauma, whether the trauma has been physical violence, sexual abuse, observing violent events, or trauma from separation from caregivers, traumatized people tend to avoid conflict (Johnson 2002, 42). Others, who, for instance, come from a family where loud arguments are the norm, find engaging with the other a natural choice. The following couple is struggling over how much engagement they will have:
-Application 5.3
-
-Avoid or Engage?
-
-  Brent: There is something bothering me.
-Janette: I’m way too stressed out to talk about anything right now.
-  Brent: I’m upset about what you said about me at the party.
-Janette: You’re picking on me. Leave me alone! Another time!
-  Brent: When are we going to talk about things that bug me? You never want to talk if I’m upset.
-Janette: You aren’t respecting what I told you about my stress. I’m going for a walk. See you later.
-Role-play the couple portrayed above. What could each have done to:
-Assert his/her needs even more articulately, while
-Working with the stated needs of the other person?
-Page 155
-Brent wants to engage in the conflict and Janette wants to protect herself by avoiding it. Every time an issue surfaces, they will have to reach agreement on avoidance/ engagement, or this metaconflict will override any other emerging issues. Their fundamental issue is “How much conflict am I willing to risk to get what I want?” (Stuart 1980, 295). Of course, during the next conflict on a different topic, she may push for engagement and he may avoid, but usually people in a relationship specialize in one approach or the other. This overriding preference limits their ability to resolve their conflicts well.
-Application 5.4
-
-Thinking about Styles
-
-Which is the best style for use in conflict? Read the four statements below and put a check mark by the one that you feel is the most accurate:
-Avoidance of conflicts leads to unhappy partnership and work relationships—it keeps important issues buried.
-Avoidance of unnecessary conflict helps promote harmony and keeps people from getting involved in unnecessary upsets.
-The only way to really manage conflict is to work through it by engaging the other person.
-Engagement in conflict leads to escalatory spirals and hurt for all parties.
-Both avoidance and engagement are workable options in different circumstances. Recall the example of the couple struggling over their level of engagement. The woman’s avoidance may have prompted the man to examine his reaction, decide that he was too reactive in social situations, and back off to reduce the conflict. Or her avoidance may have signaled to him that she did not care for his feelings and that he should start exiting the relationship. Avoidance and lack of overt conflict may indicate that the participants are unable to reach agreement and that they will gradually drift apart.
-Avoidance of conflict often leads to a cycle that is self-perpetuating. Here is a typical pattern that occurs when one avoids conflict:
-We think of conflict as bad.
-We get nervous about a conflict we are experiencing.
-We avoid the conflict as long as possible.
-The conflict gets out of control and must be confronted.
-We handle it badly (Lulofs 1994).
-Kristin, a conflict student, wrote an apt description of avoidance. “Whenever the conflict is one that is remotely serious, it gets dodged. Rather than stay and confront a problem, and heaven forbid hurt someone’s feelings, I run like mad. I find myself becoming a snail, silent in my shell.” Avoidance is designed to protect the self and other from discord and to preserve a relationship, yet the avoidance may lead to lack of clarity, set the stage for later uncontrollable conflict, and lead back to even more avoidance.
-Page 156
 Avoidance sometimes helps a relationship. Avoidance serves as a defense against engagement, or confrontation, with a partner or co-worker when the person avoiding decides that engaging a conflict would not serve a good purpose. Spouses who practice avoidance within a bond of mutual affection often describe their marriage as happy. Furthermore, if the relationship is not important to you, avoidance can conserve energy that would be expended needlessly. Similarly, if an issue is trivial to you, your easiest choice may be avoidance. In the workplace, you may have a supervisor who dislikes any conflict, so avoiding touchy topics may be a wise choice for you, as long as you can identify how to bring up new ideas.
-The tension between avoiding and engaging can be seen in the following dialogue:
-Application 5.5
-
-Should I Bring Up the Problem or Let It Go?
-
-Marjorie: Hi, Terry, what’s going on?
-  Terry: Oh, not much. [He is thinking, “If I say how upset I am, we’ll get into it, and I just want to chill out.”]
-Marjorie: You don’t look very happy. [She’s thinking, “I know you’re upset about my motherʼs criticism of your job search plans. We might as well talk about it.”]
-  Terry: No big deal. [“I hope she just lets it go.”]
-Marjorie: Are you mad at my mother? [“He must be more angry than I thought. This doesnʼt look good. Uh-oh.”]
-  Terry: Why do you always have to blow everything out of proportion?
-The conflict then escalates as they struggle tacitly over whether to engage or avoid. In Application 5.3, we asked you to role-play better options that preserved both individual needs and relational needs. In the case of Marjorie and Terry, discuss how more self-disclosure could help this couple keep from getting stuck in avoidance, or contain their escalation so the relationship is preserved.
-In the following section, avoidance as a style will be presented.
- Avoidance
 
 We have discussed the basic choice of whether to avoid or to engage. In this section we will explore the dynamics of avoidance as a style characterized by denial of the conflict, changing and avoiding topics, being noncommittal, and joking rather than dealing with the conflict at hand. The avoider may sidestep an issue by changing the topic or simply withdrawing from dealing with the issue. Just as use of the competitive or dominating style does not mean that one will get what one wants (because of interdependence with the other party), the use of avoidance as a style does not mean that the avoider will be ineffective. For instance, if a person is engaging in a conflict with a large organization, the organization can enhance its position by not responding to correspondence on the matter. By pretending that the conflict does not exist, the high-power party is freed from dealing with the low-power party.
 Recent research calls into question some of the underlying assumptions of the dual concern model. Avoidance may be more of a neutral style than one low in concern for self and others. Nuances of motivation, skill, and context determine when and how people avoid. For instance, argumentativeness as a skill or trait influences the approach of someone in conflict. If people do not have the skills of argumentation, or if they do not enjoy arguing with others, they may be judged by others and by themselves as using an avoiding style (Guerrero and Gross 2015). Argumentativeness differs from verbal aggressiveness, which will be discussed later in this chapter.
-Page 157
-Avoidance can serve similar functions in interpersonal conflicts. If two roommates are both romantically interested in the same person, they may refuse to discuss the subject openly, even if both of them are aware of the potential problem. If a couple is having difficulty dealing with each other’s families, they may not feel free to discuss the problem. Avoiding a conflict, however, does not prevent it. Conflict occurs when parties have the perception of incompatible goals, regardless of the style they choose to use in responding to this perception. Avoidance is simply an alternative mode of conflict expression. Some of the advantages and disadvantages of avoidance are presented in the following box.
-Avoidance
-advantages
+
+Avoidance can serve similar functions in interpersonal conflicts. If two roommates are both romantically interested in the same person, they may refuse to discuss the subject openly, even if both of them are aware of the potential problem. If a couple is having difficulty dealing with each other’s families, they may not feel free to discuss the problem. Avoiding a conflict, however, does not prevent it. Conflict occurs when parties have the perception of incompatible goals, regardless of the style they choose to use in responding to this perception. Avoidance is simply an alternative mode of conflict expression. 
 
 Avoidance can supply time to think of some other response to the conflict, as some people cannot “think on their feet.” It is useful if the issue is trivial or if other important issues demand oneʼs attention. If the relationship itself is unimportant to one person or if others can manage the conflict without his or her involvement, avoidance is a wise choice. Avoidance can also keep one from harm in a relationship in which anything other than avoidance will bring a negative response from the other party. If the goal is to keep from being influenced by the other party then avoidance helps to accomplish that goal.
 example:
@@ -155,16 +53,20 @@ Avoidance may signal to others that you do not “care enough to confront” the
 example:
 
 Take the case of Sarah. She lives with her father who was recently divorced. Normally, he planned dinners each night, but with Valentineʼs Day approaching Sarah planned a dinner with her girlfriend, Cathy. When Dad found out, he said, “Well the three of us could just go out.” Sarah, instead of engaging a discussion about it, said, “It is ok if you come, it wasnʼt like we were planning on a fancy restaurant or anything.” Later, Sarah said, “I know it is stupid that I canʼt stand up for myself to my dad, but I feel sorry for him. He is so lonely and misses mom so much that it would break his heart if I told him he smothers me and treats me like a child. I cannot figure out a way to explain my feelings to him without offending him.” The chances are that sometime later, Sarah will explode at her dad.
-Page 158
+
 In marriages, avoidance of conflict relates to lower satisfaction in general. Be aware that stonewalling and avoidance are different approaches—stonewalling is a hostile tactic (see Chapter 1). In one study, partners who believed in their first year of marriage that conflicts should be avoided also reported lower levels of happiness in the first 3 years of marriage than those who believed that conflicts should not be avoided (Crohan 1992). In some more “traditional” marriages, however, stability and predictability are emphasized and continual renegotiation of what the spouses expect of one another is not useful. As Pike and Sillars (1985) found, “Satisfied couples used conflict avoidance to a greater extent than dissatisfied couples” (319). Similarly, for couples who are not traditional and who lead somewhat independent lives, “Avoidance may be a satisfying style of communication” (321).
+
 Avoidance also can affect the one avoiding. Avoidance of important issues tends to result in health problems, and worsens a sense of well-being avoidance (Braman 1998; Nicolotti, el-Sheikh, and Whitson 2003).
+
 Finally, older couples in our culture who avoid conflict can often be characterized as happy, although inexpressive (Zietlow and Sillars 1988). Avoidance can be useful and appropriate when (1) open communication is not an integral part of the system (family or organization); (2) people do not want to invest the energy to “work through” the conflict to reach agreement with others—they want to stay at arm’s length and not get close; (3) the costs of confrontation are too high; or (4) one simply hasn’t learned how to engage in collaborative conflict management.
 Avoidance and Culture
 
 Whether avoidance is productive or destructive generally depends on the cultural contexts (Komarraju, Dollinger, and Lovell 2008). For some people, there are different and important reasons for avoiding. For instance, in one study comparing American and Chinese people, three different and important reasons emerged for avoiding: (1) protection of the avoider from harm, (2) maintenance of positive mood, or (3) for spiritual or philosophical reasons (Feng and Wilson 2011). There are, of course, differences across different collectivist cultures on avoidance (Leung, Brew, Zhang, and Zang 2011). One study compared Chinese, Korean, and Japanese employees and found that the Japanese were more likely to avoid (Kim, Wang, Kondo, and Kim 2007). The Japanese avoid conflict in order to preserve congeniality and consensus and out of sensitivity to others’ feelings. In Japan, when one avoids, the implicit social hierarchy is reinforced—so avoidance makes sure the social bonds are not disrupted (Ohbuchi and Atsumi 2010). In China, the appropriateness of conflict behavior may be judged more positively than the effectiveness of the behavior. In the United States, effectiveness of a partner’s conflict behavior ranks as more important than appropriateness (Qin Zhang 2015).
+
 In such collectivistic cultures, when you avoid a conflict, others will talk to you about how to heal wounds, make amends, and solve the conflict in indirect ways. In individualistic cultures, like the United States, on the other hand, if you avoid someone as the result of a conflict, your friends might cheer you on, suggesting that you “don’t have to take that junk” and making other escalatory suggestions. Depending on the culture, those around you push you either to reconciliation or into continual fighting. In collectivistic cultures, one is “more concerned with the group’s needs, goals and interests than with individualistic-oriented interest” (Trubisky, Ting-Toomey, and Lin 1991, 67). Thus, avoidance serves different functions in collectivistic cultures than in individualistic ones (Ohbuchi and Atsumi 2010). In collectivistic cultures, avoidance represents “indirect working through,” but in individualistic cultures, avoidance represents “indirect escalation.”
-Page 159
+
 In Arab cultures, usually united by language and religion, ethnic identity remains stronger than in the highly multicultural U.S. environment. Young Arab men, residing temporarily in the United States, seem to prefer the avoiding style more than American young men, which preserves the needs of the group rather than the individual (Khakimova, Yan Bing Zhang, and Hall 2012). Because young people in Arab cultures are used to calling on elders and community leaders for intervention in conflict (a third-party approach), we would be mistaken to assume that Arab young men prefer avoidance. Again, this picture of conflict styles remains nuanced and complicated.
+
 The Avoid/Criticize Loop
 
 In the avoid/criticize loop, two destructive communication behaviors come into play; avoiding the topic while criticizing another person directly or indirectly. You avoid talking about the actual conflict issues while at the same time criticizing. Examples of this avoid/criticize construction follow:
@@ -174,7 +76,6 @@ In the avoid/criticize loop, two destructive communication behaviors come into p
 “I will not deal with someone so devious.”
 In these examples, the speakers indirectly ask others to accept a negative description of their behavior before they talk, or the speakers avoid by involving others in indirect criticism. No one wants to accept an unflattering description as a prerequisite for continuing a conversation. The avoid/criticize system usually continues both avoidance and escalation, because of frustration, resentment, and defensiveness. When you are the recipient of such communication, say something like, “I don’t want to argue with you about your perception of me. I’d like to talk about the issue of finances. If we have a trust issue, or disagree, I am willing to talk about that. It doesn’t work for you to attack me and then expect me to be open.” If you are brought into an indirect avoid/criticize situation, you might say, “I’d prefer you talk with Peter about that, or if we all do,” or “I haven’t found Terry impossible to talk with. What have you tried?”
 The avoid/criticize loop is common in professional circles and the business world. One talks about others, but doesn’t join with them face-to-face to solve the problem. Especially if you are good at your job, you can really get involved in criticizing others—“He doesn’t understand the new initiative,” “She hasn’t had the training to see this accurately,” “He is just so negative I can’t stand to be in meetings with him.” Statements framed as critique substitute for a constructive request. We make the other wrong, through blaming and criticism, yet do not give the other a chance to correct. When you add self-righteous indignation to the mix, the conflict will not reach resolution.
-Page 160
 
 Avoidant Communication Strategies
 
@@ -194,7 +95,7 @@ Gloria: I am so upset that I can’t sleep. Whatever possessed you to talk about
   Sam: Can’t we talk about this in the morning?
 Gloria: It’s fine for you to say that. You don’t have to deal with Sara when she calls tomorrow to decide where we’ll travel for a joint vacation. I have to talk to her and tell her we changed our minds.
   Sam: I’m sorry I brought it up. But I’m sleepy, and I don’t want to talk about it.
-Page 161
+
 At this point, the avoidance tactic Sam is using—“Maybe if I close my eyes all this hassle will go away”—is certainly not productive. His twin goals—to get some sleep and to avoid further antagonizing his wife—are not likely to be met. By this time Gloria is probably angry not only about his lack of discretion at the party but also about his refusal to talk to her about it. An example of a productive postponement tactic follows:
   Sam: Gloria, I know you’re upset. I also feel foolish. But I am exhausted, and I really don’t want to deal with all the issues now. When Sara calls tomorrow, tell her we haven’t had a chance to talk yet and you’ll call her back. Then when I come home from work tomorrow, we’ll discuss the whole thing.
 Gloria: You always say that, and we never talk.
@@ -205,13 +106,15 @@ Although performances of avoidance come in many costumes, their function is typi
  Dominating
 
 A dominating, competitive, or “power over” style is characterized by aggressive and uncooperative behavior—pursuing your own concerns at the expense of another. People with dominating styles attempt to gain power by direct confrontation, by trying to “win” the argument without adjusting to the other’s goals and desires. A person with a competitive style is one who usually thinks it necessary to engage the other participant in overt disagreement. The conflict is seen as a “battleground,” where winning is the goal, and concern for the other is of little or no importance. Someone who adopts a competitive style in conflicts would probably agree with statements such as, “Once I get wound up in a heated discussion, I find it difficult to stop,” and “I like the excitement of engaging in verbal fights.”
-Page 162
+
 Dominating tactics can be employed in an assertive rather than an aggressive manner. In this case, competition is a more descriptive word than dominating. Usually, however, aggression creeps into a competitive style. While nonassertive people deny themselves and inhibit their expression of feelings and open striving for goals, assertive people enhance the self and work toward achieving desired goals, and are expressive. The aggressive person, however, carries the desire for self-expression to the extreme. Goals are accomplished at the expense of others. The aggressive style results in a put-down of others while the aggressor actively works against their goals. The assertive person can be competitive without berating, ridiculing, or damaging the other. The aggressive person is competitive primarily by trying to destroy the opponent’s options. Verbal aggressiveness hurts the face, self-esteem, or reputation of the other. When a person is argumentative, but not aggressive, the ability to work toward shared problem solving remains alive (Guerrero and Gross 2014).
+
 The dominating style of managing conflict can turn out to be productive if you compete to accomplish individual goals without destroying the other person. The relationship focus is maintained even while the topic is debated. Competition can be productively used in conflict, especially if the participants agree about the amount of aggressiveness that can legitimately be used in their conflict. The following box summarizes the advantages, as well as the disadvantages, of dominating.
 Dominating
 advantages
 
 Verbal domination can be appropriate and useful when one has to take quick, decisive action, such as in an emergency. Such verbal strength can generate creative ideas when others respond well to it or when one is in a situation in which the best performance or ideas are rewarded. It is useful if the external goal is more important than the relationship with the other person, such as in a short-term, nonrepeating relationship.
+
 Dominating also informs the other of oneʼs degree of commitment to the issue and can be used to demonstrate to the other party the importance of the issue. When everyone agrees that dominating behavior is a sign of strength and when the behavior is treated as a “natural” response, such as in games, sports, or in a court battle, the style serves good purposes. In these cases, other styles may not bring the expected closure.
 example:
 
@@ -222,45 +125,25 @@ Dominating responses can harm the relationship between the parties because of th
 example:
 
 Greg and Marcie, both young, competitive salespeople for the same company, live together. Their manager rewards them, unsurprisingly, for high sales. The couple keeps track of whoʼs ahead of the other by placing a chart on the refrigerator. The weekʼs loser has to do the laundry for the week. However, when Marcieʼs sales are low, because she has been ill and has missed a lot of work, she angrily proclaims to Greg, “Iʼm not your servant! Do your own damn laundry!” Their relationship and her identity suffered from the “loss.”
-Page 163
+
 Especially when both parties agree that a competitive style is the norm, the style can be useful. Competitiveness can be a sign of strength or commitment. For example, two attorneys who one-up each other during negotiation are each attempting to persuade the other to alter each other’s position. This dominating style may actually be a form of bluffing.
 At the same time, dominating or competitive tactics can damage a relationship, lock the participants into round-robin sequences of attack on each other, and deprive the participants of cooperative solutions to their problems. In severe cases, a dominating style can become self-encapsulating—the participants can’t give up or stop because they get too caught up in winning at any cost. When people launch never-ending court challenges against one another or continue to verbally abuse their ex-spouses for many decades, such approaches indicate a frozen position of dominating. The ever-competitive combatants lose all perspective on the original goal, and they dedicate their energies to triumphing over the other.
 Threats
 
 The most commonly used dominating tactic is the threat. We rush to use threats because we believe they are effective (Thompson et al. 2011). Many parents are too quick to say, “Do your homework or you’re grounded” or in the grocery store, “Touch those cans again and I’ll lock you in the trunk of the car!” Supervisors will say, “My way or the highway”—a misguided attempt to build a team.
 Figure 5.2 shows that a threat has to meet two criteria: The source of the threat must control the outcome and the threat must be seen as negative by the recipient. If you (the source) control the outcome (“If you don’t go to bed in three minutes, I won’t read you a story”) and the sanction is seen as negative, then it is a threat. Similarly, if the professor says, “If you don’t get your paper in on time, I will dock your grade,” it is a threat. However, if the source does not control the outcome (a friend says, “If you don’t get your paper in on time, it will hurt your grade”), the comment is not a threat—it is a warning.
-Page 164
 
-Figure 5.2 The Nature of Threats
 Many parents get confused between warnings and threats. For example, “If you drink too much, you’ll never graduate” seems like a threat, but it is not because the parent does not control the outcome. Yet, if the parent says, “Stop partying so much or I won’t pay for next semester,” it is a threat. Or, if you say to a friend, “If you cheat on your boyfriend, he will leave you,” you are issuing a warning. If you say, “I wouldn’t challenge her on that topic,” you are recommending a course of action to your friend.
 Small children understand the difference between a positive and a negative sanction. If the parent says, “If you don’t do the dishes, you’ll have to spend the evening in your room,” and the child has a computer or TV so going to the room is not negative, the child may well retort, “Is that a threat or a promise?” As you can see, if the source controls the outcome and the recipient sees the outcome as positive, the threat is, instead, a promise.
 A threat is usually credible if (1) the source is in a position to administer the punishment, (2) the source appears willing to invoke the punishment, and (3) the punishment is something to be avoided. Often, the other party is able to administer a threat but not willing to follow through. A co-worker who threatens to tell the boss you broke a rule may not carry out the threat if the boss dislikes “whistle-blowers.” Similarly, in an intimate relationship, one partner might say, “If you want to make your summer plans alone, go ahead. But if you do, then don’t expect to find me here when you come back.” Such a threat (relational suicide) is effective only if the person who makes the threat is willing to lose the other person over this one issue. The perception that the other party is willing to carry out the threat makes it effective. As a result, intimates often avoid testing the willingness of the other party to invoke the threat and instead live under the control of the other person for years. In poker, a “bluff” is when you bet a lot (but have a weak group of cards) as a way to get the other people to “fold” and give you the winnings. The only successful bluff is one that the other party believes is true.
 Finally, threats are effective only if the sanction is something the threatened party wants to avoid. One faculty member was offered a job at a competing university; when he went to the department chair and threatened to leave unless his salary was raised, the chair replied, “I hope you enjoy the climate down South.”
-Page 165
+
 As you have seen, threats can be constructive and destructive. They can be used constructively to highlight the importance of the conflict topic to you, to get the attention of the other party, and to clarify one’s perceptions of the power balance. On another level, threats tend to elicit the same behavior from the other, starting escalatory conflict spirals. They also block collaborative agreements and undermine trust in the relationship. Worse, we can become enamored of them (Kellermann and Shea 1996). If two roommates in a campus residence hall have been getting along well except for the issue of sweeping the floor, then a threat of “If you don’t sweep more often, I’ll process a room change!” might damage the trust in an otherwise good relationship. The recipient of the threat is likely to respond with a feeling of “OK, then go ahead. Who needs you anyway?” Unless trust can be regained, forging agreements will be extremely difficult. Once a threat has damaged the trust in the relationship, it often leads to further destructive tactics. Threats are overused, used too quickly, destroy trust, and tend to promote retaliation.
-Application 5.6
-
-Threats in Personal Relationships
-
-Think of a time when you were threatened, or you used threats. What happened? Looking back, do you think the threats were effective in solving a problem and keeping the relationship intact? Were they harmful? What have you learned about your personal response to using threats or being threatened verbally?
-Which of the following was true for you when you were the recipient of a threat or when you used a threat?
-I felt justified and right.
-I could not think of anything else to do.
-I wanted to hurt the other person.
-I wanted to get even after I was threatened.
-My feelings for/with the other person changed to fear, contempt, humiliation, rage, helplessness, or vengeance.
-I managed to avoid the other person.
-I broke the relationship, finally.
-I didnʼt like myself for issuing the threat.
-I didnʼt like myself for changing my behavior when someone threatened me.
-I felt hate/hated.
-I felt regret or remorse.
-Can you think of positive outcomes of giving or receiving a threat? Discuss these with your small group.
 Threats introduce a risk in a relationship. Even if a credible threat is carried out, with the resulting win–lose negative sanction, what is gained? The immediate problem may be temporarily resolved, but the main goals (1) to solve the problem and (2) to preserve the relationship for work or closeness have not been met. The use of the threat automatically damages the second goal, “preserve the relationship.”
 Destructive Domination
 
 Dominating tactics involve being verbally competitive—striving for an individual “win.” These tactics have a win/lose orientation and reflect a belief that what one person gets, the other loses. As a result, the party using competitive tactics will try to one-up the other party to gain an advantage.
-Page 166
+
 If someone personally criticizes you, rejects your statements, or acts in a verbally hostile manner (with threats, jokes, or questions), you become vividly aware of the competitive nature of the exchange. Confrontational remarks are at the heart of “I win–you lose” perspectives on conflict. Just as with avoidance tactics, dominating tactics are often used in combination. A dominating approach demands that the other give in, take responsibility for the conflict, and solve it.
 Illustrations of Dominating Statements
 “Oh, come on.”
@@ -385,24 +268,7 @@ A collaborative conflict does not conclude until both parties are reasonably sat
 Page 175
 Integrating involves making descriptive and disclosing statements and soliciting reactions from the other party. You make concessions when necessary and accept responsibility for your part in the conflict. Integrating does not mean taking total responsibility, such as saying, “It’s all my fault. I shouldn’t have gotten angry.” Rather, integrating is a struggle with others to find mutually agreeable solutions. Parties engage at an exploratory, problem-solving level rather than avoiding or destroying each other. Integrating is the search for a new way.
 Integrating is characterized by statements such as “When I get in conflict with someone, I try to work creatively with them to find new options” or “I like to assert myself, and I also like to cooperate with others.” Integrating differs from compromise because in compromise, the parties look for an easy intermediate position that partially satisfies them both, whereas in integrating, the parties work creatively to find new solutions that will maximize goals for them both.
-Application 5.7
 
-Salary, Public Regard, and Secret Agreements
-
-Both Lillian and Greg had been working in a hospital, Lillian as the vice president for financial affairs and Greg as a program director for financial campaigns. Both Lillian and Greg reported directly to the CFO, who retired. Both applied for his job, but were disappointed when someone from another state was hired. However, both Lillian, the VP, and Greg came to like and respect Karen, the new CFO. Lillian had the higher position, although Greg also reported to the CFO, not to Lillian. The conflict arose when time for pay raises and performance reviews came around. Karen told Greg that she valued him, and did not want to lose him. He had been looking for another job. So she promoted him to “vice president for financial growth,” with a salary increase slightly above Lillianʼs. Lillian retained her position as vice president.
-What were they thinking and feeling?
-Karen: I am so new here that I donʼt want to train another campaign director. Greg knows everyone in town. When he told me he was thinking of going back to his previous hospital as CFO, I believed him. He is a competitive, aggressive person who wants to be at the top. I couldnʼt afford to lose him. However, I donʼt quite trust him. He is doing a lot of public forums where he says he speaks for the hospital, without checking with me. He is a lone ranger. And now I have alienated Lillian who, while quiet, is really the heart and soul of this office. She has years of institutional history and everyone trusts her. She is willing to do the hard, daily work of financial oversight. I should not have caved in to Gregʼs request without talking it over with Lillian and my president. I can see that I put her in a one-down position with Greg. Iʼm going to have to fix this, and quick. She could easily retire early and then weʼd all lose.
-Lillian: I am sure Karen does not know how much Greg upstages me. He never includes me in the conversation when we are with higher-ups or big donors. He treats me like the secretary. I didnʼt mind so much, because I know Karen values me and after all, I was second to her. Now she has effectively raised Greg above me, although I donʼt have to report to him. And I heard from someone I trust that he wants Karenʼs job. I am upset, but more with Greg than Karen. Karen, I think, got bullied, and Iʼm paying the price. Itʼs not OK with me. We need to talk. I do not want to retire, but I will never put myself in the position to report to Greg.
-Greg: I am pleased that Karen sees my worth. I have brought a lot of money to the hospital, and Iʼm developing a good public presence. I donʼt respect Lillianʼs unassuming style. She lets a lot of opportunities go by without telling donors what we need. Sheʼs more of an accountant than a vice president. I donʼt like it that Karen goes to her for everything. I really dislike the team meetings when nothing gets done. Karenʼs always talking about a “team plan,” but I just want to be left alone to make connections with donors and then let the president figure out what the priorities are. I do fine on my own.
-Page 176
-Of the following options, pick the one that you think has the best chance of getting all three people to come up with a collaborative (win–win) solution. Then role-play your preferred option with all three people.
-Option 1. Karen calls a meeting with Greg and Lillian and says that she has made a mistake in raising Greg without including Lillian. She calls for a team decision about how to rectify the relationship, content, identity, and process issues.
-Option 2. Karen talks with Greg and Lillian separately, asking Greg to change some of his public behavior, and telling Lillian that Karen made a mistake and wants to brainstorm how to resolve the issue.
-Option 3. Karen calls a meeting with the president and Lillian and Greg and explains that Greg is extremely valuable to the team, but no more so than Lillian, so she is going to raise Lillianʼs salary to Gregʼs level. She asks them to collaborate more in public.
-Option 4. None of the above. Develop a plan that you think might work, including beginning language, based on what the three parties think and feel. The object is a collaborative outcome.
-Research on the effect of an integrating style consistently demonstrates that when one learns how to use it, integrating is a successful tool for conflict management (Kuhn and Poole 2000). Integrating results in joint benefits and provides a constructive response to the conflict. Collaborative styles in a variety of contexts result in better decisions and greater satisfaction with partners (Gayle-Hackett 1989b; Pruitt 1981; Tutzauer and Roloff 1988; Wall and Galanes 1986). Cooperative styles allow conflict parties to find mutually agreeable solutions, whether the conflict occurs in an intimate or work situation.
-The following box summarizes the advantages and disadvantages of integrating.
-Page 177
 Integrating
 advantages
 
@@ -536,9 +402,8 @@ Clearly, no one explanation can account for violence. For example, why does a st
 Regardless of one’s explanation of violence, it is past time for us to come together to take a firm stand on it. We desperately need to approach violence from a variety of ­platforms—in the home, schools, in places of worship, and in the workplace. We need programs to teach us how to stop violence in all contexts and give assistance to both perpetrators and victims so the cycles of destruction can be stopped.
  Interaction Dynamics
 
-We cannot understand conflict dynamics by examining individual styles in isolation. The interlocking interaction of two or more people determines the outcome of the conflict. No matter how hard one person tries to resolve a conflict, the outcome will not be constructive unless the other person is involved in working things out, too. Figure 5.3 shows two very different outcomes of conflict, even though Michael uses exactly the same tactics throughout. In one case, the conflict escalates between the two participants. In the other, Janet’s alternative tactics reduce the conflict. The outcome is the joint product of both choices, not the result of some inherent personality trait of either participant.
+We cannot understand conflict dynamics by examining individual styles in isolation. The interlocking interaction of two or more people determines the outcome of the conflict. No matter how hard one person tries to resolve a conflict, the outcome will not be constructive unless the other person is involved in working things out, too. 
 
-Figure 5.3 Tactics in an Interaction Context
 In conflict interactions people tend to choose their tactics and styles based on the view of the other’s intent and actions. Analysis must shift from the individual to the relationship level, viewing conflict preferences as resulting from a system of interlocking behaviors rather than as a function of personality. Relational variables (e.g., whom you interact with, how congruent your perceptions are with those of the other party, what intent you think the other party has, and the mirroring of each other’s responses) explain conflict style choices better than personality. In organizations, when a manager is perceived to use an integrating style, subordinates are less likely to use threats to resign, and more likely to use verbal engagement for dissent. When a manager’s style is perceived to be dominating, subordinates are more likely to threaten to resign, to go around the manager, and to repeat demands (Redmond, Jameson, and Bender 2016).
 Even though each conflict interaction is unique, two patterns of interlocking behaviors are worthy of note: (1) complementary patterns and (2) symmetrical patterns.
 Complementary patterns are tactics or styles that are different from one another but also mutually reinforcing. For example, if one person tries to engage and talk about the conflict and the other avoids, each one’s moves reinforce those of the other. The engager begins to think, “If I don’t force the issue, he will never talk to me,” while the avoider thinks, “If she would just leave me alone, it would be all right.” The more she engages, the more he avoids; the more he avoids, the more she engages; and they produce a “communication spiral” in which both parties magnify their chosen response.
@@ -585,19 +450,6 @@ Does your conflict style remain constant across a number of conflicts that have 
 Do you have a set of responses that follow a preset pattern? For instance, do you “go for the jugular” then back off and accommodate the other because you fear you have made a “scene”? If you follow regular cycles of behavior, whatever the particulars, you may be stuck.
 Do others seem to do the same thing with you? If different people engage in similar behavior with you, you may be doing something that triggers their response. For instance, has it been your experience that in conflicts, others are always dominating? If so, their behavior may be a reaction to a dominating posture that you take toward conflict. If you were more conciliatory, integrative, or obliging, others might not feel the need to respond competitively to you.
 Do you carry a label that is used to describe you? If you grew up as “our little fireball,” you may not have learned how to collaborate. If you are referred to as a “powerhouse,” a “mover and a shaker,” or “a bulldog,” your conflict style might be overly inflexible. If you’re known as “the judge,” “the warrior,” or “the dictator,” you probably have an overly rigid style. Labels, although they often hurt and overgeneralize, may carry embedded grains of truth.
-Application 5.8
-
-Your Responses
-
-Answer the above five questions, privately first, then with your small group. What did you learn? Is there anything you want to change about your style across various contexts? Maybe itʼs time for a change.
-Individuals who can change and adapt are more likely to be effective conflict participants, accomplishing private and group goals better than people who avoid change. Hart and Burks (1972) discuss the concept of rhetorical sensitivity, the idea that people change their communication style based on the demands of different situations. The following five communication characteristics describe people who are rhetorically sensitive:
-Page 191
-They are comfortable altering their roles in response to the behaviors of others.
-They avoid stylizing their communication behavior, so they are able to adapt.
-They develop skills to deal with different audiences and are able to withstand the pressure and ambiguity of constant adaptation.
-They are able to monitor talk with others to make it purposive rather than expressive. They speak not so much to “spill their guts” as to solve problems.
-They adapt and alter behaviors in a rational and orderly way.
-In other words, effective communicators adapt to others. They avoid getting “stuck” in certain conflict styles.
 If you have a repertoire of styles, it prompts you to see others in a different, more objective light. When we see we make choices depending on circumstances, we then can see others doing the same thing. We are far less likely to judge the behavior of others automatically as having bad intent, being childish, or being improper.
 Another reason for having a repertoire of conflict styles is many styles were developed from rules for children. Although it may be appropriate to “respect your elders” when you are 8 years old, overgeneralizing that rule to include avoiding conflict with respected elders when you are an adult is much less appropriate. Learning to seek permission to speak might be fine behavior in the third grade, but waiting for permission to speak in a bargaining session, whether formal or informal, will ensure that you will never be heard. As an adult, raising one’s voice may not be as great a sin as stifling it.
 By unfreezing your style options, you can adapt to the context and the other person and be more productive in conflicts.
